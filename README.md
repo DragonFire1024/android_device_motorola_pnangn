@@ -1,3 +1,3 @@
-# Android 12 TWRP Recovery Device Tree
-# Motorola Moto G Stylus 5G 2021
+# Android 13 TWRP Recovery device tree for
+# Motorola Moto G 5G 2023 (pnangn/XT2313_6)
 #
